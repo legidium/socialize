@@ -1,0 +1,23 @@
+{
+    "name": "legidium/socialize",
+    "description": "The package helps you get user data from social networks with Laravel 4.2.",
+    "keywords": ["laravel", "laravel-4", "oauth", "oauth2", "social", "facebook", "google", "vkontakte"],
+    "authors": [
+        {
+            "name": "Vitaly Antonov",
+            "email": "legidium@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*",
+        "guzzlehttp/guzzle": "~5.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Legidium\\Socialize\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "minimum-stability": "stable"
+}
