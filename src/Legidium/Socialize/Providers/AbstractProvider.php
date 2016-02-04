@@ -1,4 +1,4 @@
-h<?php namespace Legidium\Socialize\Providers;
+<?php namespace Legidium\Socialize\Providers;
 
 use Exception;
 use GuzzleHttp\Client;
